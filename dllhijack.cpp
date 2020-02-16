@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "dllhijack.h"
 #include <windows.h>
 
